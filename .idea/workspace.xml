@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3c693ee-a526-4631-9578-e9f16f0131ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/Main9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/Steps/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/二进制链表转整数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/复制IP地址/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/字符串转换整数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/寻找和为指定的两个数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/按序打印/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/数组中两个数的最大异或值/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/无重复字符的最长子串/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/最大子序和/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/环形链表/CircleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/盛最多水的容器/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/链表两数相加/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/顺次数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序基础总结/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序基础总结/Quick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表基础总结/链表的翻转和合并/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/三数之和/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/整数转罗马数字/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/移动0/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/移动0/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +20,11 @@
     <session id="-1365711192">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="6" />
           <entry key="project.open.time.18" value="1" />
@@ -49,28 +33,29 @@
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="74" />
+          <entry key="java" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="74" />
+          <entry key="JAVA" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="21379" />
+          <entry key="java" value="22004" />
           <entry key="txt" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21379" />
+          <entry key="JAVA" value="22004" />
           <entry key="PLAIN_TEXT" value="32" />
         </counts>
       </usages-collector>
@@ -78,42 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/无重复字符的最长子串/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/盛最多水的容器/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/二进制链表转整数/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="23" selection-end-column="21" />
-              <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/顺次数/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,20 +90,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/树基础总结/TreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="3570">
               <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/字符串转换整数/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="37" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+            <state relative-caret-position="168">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding>
                 <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/整数转罗马数字/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="17" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/三数之和/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="49" selection-start-line="49" selection-end-line="71" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="4307" column="30" selection-start-line="4307" selection-start-column="30" selection-end-line="4307" selection-end-column="30" />
+              <folding>
+                <element signature="e#200641#200642#0" expanded="true" />
+                <element signature="e#200682#200683#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -270,6 +253,8 @@
         <option value="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/顺次数/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/复制IP地址/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/字符串转换整数/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/整数转罗马数字/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/三数之和/Main.java" />
       </list>
     </option>
   </component>
@@ -313,7 +298,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Serializable&#9;PSI&#9;JAVA://java.io.Serializable&#10;Comparable&#9;PSI&#9;JAVA://java.lang.Comparable" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577024342419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577179647809" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../简单编译器" />
   </component>
   <component name="RecentsManager">
@@ -333,7 +318,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.leetcode算法面试题汇总.字符串转换整数.Main" />
       <module name="leetcode题集" />
@@ -347,12 +332,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leetcode算法面试题汇总.盛最多水的容器.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode算法面试题汇总.三数之和.Main" />
       <module name="leetcode题集" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.leetcode算法面试题汇总.盛最多水的容器.*" />
+          <option name="PATTERN" value="com.company.leetcode算法面试题汇总.三数之和.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,19 +385,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +440,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.02010724" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06635389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,12 +449,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.04680851" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1574468" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4680851" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.017021276" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.06382979" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27092198" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.035460994" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
@@ -673,6 +658,12 @@
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/三数之和/Main.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/最大子序和/Main.java</url>
           <line>9</line>
@@ -693,30 +684,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/单词拆分/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2010">
-          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/Main6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/前缀树问题/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" selection-start-line="7" selection-start-column="2" selection-end-line="87" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/前缀树问题/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1590">
@@ -1025,6 +992,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/树基础总结/TreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/链表基础总结/链表的翻转和合并/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1800">
@@ -1050,20 +1024,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/树基础总结/TreeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/字符串转换整数/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        <state relative-caret-position="168">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/字符串转换整数/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/整数转罗马数字/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+        <state relative-caret-position="198">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="4307" column="30" selection-start-line="4307" selection-start-column="30" selection-end-line="4307" selection-end-column="30" />
           <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#200641#200642#0" expanded="true" />
+            <element signature="e#200682#200683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/leetcode算法面试题汇总/三数之和/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="49" selection-start-line="49" selection-end-line="71" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
